@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LightboxDigital/wp-attachment-video-link.svg?branch=master)](https://travis-ci.org/LightboxDigital/wp-attachment-video-link)
+
 # WordPress Attachment Video Link
 
 License: MIT
